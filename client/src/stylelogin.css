@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+.body{
+background-image: url('https://img-0.journaldunet.com/ebYfwSVjuy4aZ0nFLunUQTySH8g=/1500x/smart/497fe355cc324cdd81fe0f495c5d979d/ccmcms-jdn/19478788.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 700px;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+}
+
+.card{
+height: 370px;
+margin-top: 100px;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.card1{
+    height: 550px;
+    margin-top: 100px;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0,0,0,0.5) !important;
+    }
+
+.social_icon span {
+font-size: 60px;
+margin-left: 10px;
+color: #FFC312;
+}
+
+.social_icon span:hover{
+color: white;
+cursor: pointer;
+}
+
+.card-header h3{
+color: white;
+}
+
+.social_icon{
+position: absolute;
+right: 20px;
+top: -45px;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color: #FFC312;
+color: black;
+border:10px !important;
+
+}
+
+.input-group-text{
+    width: 50px;
+
+background-color: #FFC312;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+padding-bottom: 30px;
+
+}
+
+.remember{
+color: white;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+.login_btn{
+color: black;
+background-color: #FFC312;
+width: 100px;
+align-items: center;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+
+}
+
+.links a{
+margin-left: 4px;
+
+}
+
+.input-group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.float-right{
+    float: right;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.card-footer {
+    padding: 0.5rem 1rem;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-top: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.d-flex{
+    display: flex;
+}
+
+.flexInput{
+    display: flex;
+    justify-content: space-between;
+}
+.HomeLink{
+    justify-content: right;
+
+}

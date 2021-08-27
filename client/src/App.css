@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+  color:goldenrod;
+  
+}
+
+ img{
+   height: 500px;
+   
+  
+ }
+
+ .dark-bg {
+  background-color: #282828;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+ 
+}
+.cards
+{
+  width: 100%;
+  padding-right: 60px;
+  padding-left: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.contact-details,.address,.footer-desc{
+  color: white;
+}
+
+table{
+  width: 100%;
+  border: darkgrey;
+}
+
+h1{
+  
+  text-align: center;
+  color: goldenrod;
+}
+
+.link {
+  text-decoration: none; 
+  color:#f3f33dcb;
+ border-color: grey;
+ 
+ 
+
+    
+}
+.link1 {
+  text-decoration: none; 
+  color:black;
+ border-color: grey;
+
+    
+}
+
+.bar{
+  display: flex;
+  justify-content: space-between;
+ background-color: #282828;
+ width:100%;
+
+}
+
+.logo{
+  height: 80px;
+  width: 200px;
+  margin-top: 0;
+}
+
+.flex{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.position{
+  margin-top: 70px;
+}
+
+.filter{
+  margin-left: 1000px;
+  width: 200px;
+}
+
+.flexRole{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.content{
+  margin-left: 90px;
+}
+
+.ButtonMargin{
+  margin-left: 1200px;
+  color: goldenrod;
+  
+}
